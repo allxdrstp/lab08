@@ -1,0 +1,9 @@
+text1
+text2
+text3
+<C-D>
+Ð
+text1
+text2
+text3
+<C-D>
